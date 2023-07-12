@@ -1,9 +1,8 @@
-# align="center">Hi 👋, I'm Utkan Genc 
+# Hi 👋, I'm Utkan Genc 
+
 ## A Electrical-Electronics Engineering student from Istanbul
 
-## HTML, CSS, and JS for front-end software development
+### Still learning HTML, CSS, and JS for front-end software development path.
 
 ### Connect with me:
-
 utkangencdev@gmail.com
-
