@@ -1,6 +1,6 @@
 # Utkan Genc 
 
-### A Electrical-Electronics Engineering student from Istanbul
+### An Electrical-Electronics Engineering student from Istanbul
 
 #### Still learning HTML, CSS, and JS for front-end development path.
 
